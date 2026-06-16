@@ -1,6 +1,5 @@
 # Project Architecture
-<img width="977" height="320" alt="image" src="https://github.com/user-attachments/assets/aa070f77-a67c-490c-b4ca-f90eab6860dd" />
-
+<img width="989" height="319" alt="image" src="https://github.com/user-attachments/assets/ef17d9ea-2963-4aa2-94c2-9e2497f8eff6" />
 
 
 **STEP 1** => Download only TaxiZone Lookup table (csv format).   
