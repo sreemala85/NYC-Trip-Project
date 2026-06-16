@@ -1,4 +1,7 @@
 # Project Architecture
+<img width="977" height="320" alt="image" src="https://github.com/user-attachments/assets/aa070f77-a67c-490c-b4ca-f90eab6860dd" />
+
+
 
 **STEP 1** => Download only TaxiZone Lookup table (csv format).   
 **STEP 2** => Creating Azure resources in MS Azure   
