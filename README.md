@@ -1,8 +1,8 @@
 # Project Architecture
 
 **STEP 1** => Download only TaxiZone Lookup table (csv format).   
-**STEP 2** => Creating Azure resources in MS Azure
-**Resources created** -
+**STEP 2** => Creating Azure resources in MS Azure   
+**Resources created** -    
 a. Resource Group  
 b. Storage Account   
 c. Containers - Bronze & Silver  
@@ -23,3 +23,5 @@ f. Write the data to MS Azure (**SILVER** container)
 
 **STEP 5** => Create external DELTA tables (**GOLD** layer)   
 **STEP 6** => Connect to Power BI usning Partner Connect
+<img width="940" height="247" alt="image" src="https://github.com/user-attachments/assets/4a35784f-ca17-4bf7-8ae6-889aded75a84" />
+
