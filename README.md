@@ -23,7 +23,7 @@ d. Read the data from all folders/csv file
 e. Perform transformations to the dataset as per requirement    
 f. Write the data to MS Azure (**SILVER** container)   
 
-**STEP 5** => Create external DELTA tables (**GOLD** layer)   
+**STEP 5** => Create managed DELTA tables (**GOLD** layer)   
 **STEP 6** => Connect to Power BI usning Partner Connect
 <img width="940" height="247" alt="image" src="https://github.com/user-attachments/assets/4a35784f-ca17-4bf7-8ae6-889aded75a84" />
 
